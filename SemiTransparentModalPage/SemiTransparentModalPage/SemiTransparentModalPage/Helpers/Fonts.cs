@@ -15,7 +15,7 @@ namespace SemiTransparentModalPage.Helpers
 
         static Fonts()
         {
-            TitleFont = Font.SystemFontOfSize(40);
+            TitleFont = Font.SystemFontOfSize(32);
             SubtitleFont = Font.SystemFontOfSize(30);
             LabelFont = Font.SystemFontOfSize(20);
         }

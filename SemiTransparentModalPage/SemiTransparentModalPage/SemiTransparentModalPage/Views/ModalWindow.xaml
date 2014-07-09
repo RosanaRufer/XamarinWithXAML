@@ -4,19 +4,21 @@
 					   x:Class="SemiTransparentModalPage.Views.ModalWindow"
                        xmlns:fonts="clr-namespace:SemiTransparentModalPage.Helpers;assembly=SemiTransparentModalPage"
                        BackgroundColor="Transparent">
-    <StackLayout Padding="100,200,100,100"
-    			 BackgroundColor="Aqua" 
-        	     Opacity="0.7">
+    <StackLayout BackgroundColor="Aqua"
+                 Opacity="0.8" 
+        	     VerticalOptions="CenterAndExpand"
+        	     HorizontalOptions="Fill">
 
     	<Label Text="This is a semi-transparent Modal Window!" 
            		HorizontalOptions="Center" 
-           		Font = "{x:Static fonts:Fonts.TitleFont}" 
+           		Font = "{x:Static fonts:Fonts.SubtitleFont}" 
            		TextColor="Black"/>
 
         <Button HorizontalOptions="Center" 
                 BorderRadius="2" 
                 Text="OK" 
-                Command="{Binding NavigateBackCommand}"/>
+                Command="{Binding NavigateBackCommand}"
+                Opacity="1"/>
 
     </StackLayout>
 
