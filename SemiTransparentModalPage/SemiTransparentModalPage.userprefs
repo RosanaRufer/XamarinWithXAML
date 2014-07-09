@@ -1,11 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SemiTransparentModalPage\SemiTransparentModalPage\Views\ModalWindow.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SemiTransparentModalPage\SemiTransparentModalPage\Views\ModalWindow.xaml">
     <Files>
-      <File FileName="SemiTransparentModalPage\SemiTransparentModalPage\Views\ModalWindow.xaml" Line="9" Column="108" />
+      <File FileName="SemiTransparentModalPage\SemiTransparentModalPage\Views\ModalWindow.xaml" Line="21" Column="15" />
       <File FileName="c:\XamarinWithXAML\SemiTransparentModalPage\SemiTransparentModalPage\SemiTransparentModalPage\obj\Debug\ModalWindow.xaml.g.cs" Line="1" Column="1" />
       <File FileName="SemiTransparentModalPage\SemiTransparentModalPage\ViewModels\ModalViewModel.cs" Line="22" Column="4" />
-      <File FileName="SemiTransparentModalPage\SemiTransparentModalPage\Views\ModalWindow.xaml.cs" Line="12" Column="29" />
+      <File FileName="SemiTransparentModalPage\SemiTransparentModalPage\Views\ModalWindow.xaml.cs" Line="8" Column="23" />
+      <File FileName="SemiTransparentModalPage\SemiTransparentModalPage\Views\MainView.xaml" Line="5" Column="26" />
+      <File FileName="SemiTransparentModalPage\SemiTransparentModalPage\Helpers\Fonts.cs" Line="13" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
