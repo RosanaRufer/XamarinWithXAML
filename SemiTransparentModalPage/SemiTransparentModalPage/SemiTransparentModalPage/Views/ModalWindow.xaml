@@ -3,10 +3,10 @@
 					   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
 					   x:Class="SemiTransparentModalPage.Views.ModalWindow"
                        xmlns:fonts="clr-namespace:SemiTransparentModalPage.Helpers;assembly=SemiTransparentModalPage"
-                       BackgroundColor="Silver" Opacity="0.5">
+                       BackgroundColor="Transparent">
     <StackLayout Padding="100,200,100,100"
     			 BackgroundColor="Aqua" 
-        	     Opacity="0.9">
+        	     Opacity="0.7">
 
     	<Label Text="This is a semi-transparent Modal Window!" 
            		HorizontalOptions="Center" 
