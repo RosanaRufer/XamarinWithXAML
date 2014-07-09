@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SemiTransparentModalPage\SemiTransparentModalPage\Views\ModalWindow.xaml.cs">
+    <Files>
+      <File FileName="SemiTransparentModalPage\SemiTransparentModalPage\Views\ModalWindow.xaml" Line="9" Column="108" />
+      <File FileName="c:\XamarinWithXAML\SemiTransparentModalPage\SemiTransparentModalPage\SemiTransparentModalPage\obj\Debug\ModalWindow.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="SemiTransparentModalPage\SemiTransparentModalPage\ViewModels\ModalViewModel.cs" Line="22" Column="4" />
+      <File FileName="SemiTransparentModalPage\SemiTransparentModalPage\Views\ModalWindow.xaml.cs" Line="12" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
