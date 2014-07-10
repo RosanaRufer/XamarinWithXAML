@@ -13,8 +13,7 @@
                      Opacity="0.8"
 					 >
 
-    	<Label  Padding="5,5,5,5"
-    			Text="This is a semi-transparent Modal Window!" 
+    	<Label  Text="This is a semi-transparent Modal Window!" 
            		HorizontalOptions="Center" 
            		Font = "{x:Static fonts:Fonts.SubtitleFont}" 
            		TextColor="Black"/>
