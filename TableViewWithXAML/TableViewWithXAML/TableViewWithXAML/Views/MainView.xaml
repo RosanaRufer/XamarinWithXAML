@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+					   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+					   x:Class="TableViewWithXAML.Views.MainView">
+   <ContentPage.Content>
+    <StackLayout VerticalOptions ="Center" Orientation ="Vertical" HorizontalOptions ="Center">
+        <Label Text = "head"/>
+        <TableView Intent="Menu" BackgroundColor="Silver">
+                  <TableView.Root>
+                    <TableRoot>
+                        <TableSection Title="PERSON 1">
+                            <TextCell Text ="Email" TextColor = "Red"/>
+               	 			<TextCell Text ="Password"/>
+                			<TextCell Text ="RePassword"/>
+                        </TableSection>
+ 						<TableSection Title="PERSON 2">
+                            <TextCell Text ="Email" TextColor = "Red"/>
+               	 			<TextCell Text ="Password"/>
+                			<TextCell Text ="RePassword"/>
+                        </TableSection>
+                    </TableRoot>
+                  </TableView.Root>
+                </TableView>
+    </StackLayout>
+	</ContentPage.Content>
+</ContentPage>

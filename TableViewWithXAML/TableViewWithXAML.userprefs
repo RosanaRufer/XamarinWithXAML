@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TableViewWithXAML\TableViewWithXAML\Views\MainView.xaml">
+    <Files>
+      <File FileName="TableViewWithXAML\TableViewWithXAML\Views\MainView.xaml" Line="26" Column="15" />
+      <File FileName="c:\XamarinWithXAML\TableViewWithXAML\TableViewWithXAML\TableViewWithXAML\obj\Debug\MainView.xaml.g.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
